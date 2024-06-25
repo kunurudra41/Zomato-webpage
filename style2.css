@@ -1,0 +1,23 @@
+.my-style{
+  background-color: #00DE;
+  color: #22BE43;
+padding-left: 200px;
+padding-right: 400px;
+padding-top: 100px;
+padding-bottom: 100px;
+margin: 20px;
+  border: 3px solid #000;
+}
+#my-id {
+  background-color: #FDD2BF;
+  color: #DF5E5E;
+  border: 3px dotted #000;
+}
+p{
+  background-color:#0f230d;
+  color: #00e588;
+  border: 3px dashed #000;
+}
+h1{
+  color: #000;
+}
